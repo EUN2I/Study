@@ -1,2 +1,2 @@
 # study
-github, python
+github, markdown
